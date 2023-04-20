@@ -1,2 +1,2 @@
 # Tkinter-WindowMover
-Python WindowMover class, to move tkinter windows smooth without border
+Python WindowMover class, to move tkinter windows without dragging on frame
